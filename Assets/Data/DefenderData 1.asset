@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35eb99346319e3441b5c66679245a090, type: 3}
+  m_Name: DefenderData 1
+  m_EditorClassIdentifier: 
+  spawnTime: 0.5
+  normalSpeed: 2
+  returnSpeed: 4
+  detectionField: 0.35
+  reactivateTime: 4
+  detectionMaterial: {fileID: 2100000, guid: bc4b389db29dfc2498c9f89aa2fe6524, type: 2}
+  inactiveMaterial: {fileID: 2100000, guid: ef339f3217462b241911b940f46b727e, type: 2}
+  normalMaterial: {fileID: 2100000, guid: e1c3a252c47fa244cb2b09055cfe0166, type: 2}
+  inactivateDistance: 1.5
